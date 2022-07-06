@@ -2,7 +2,8 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=1mmanuelKant&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" height="180em">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mmanuelKant&layout=compact&langs_count=7&theme=vision-friendly-dark" height="180em">
-</div><br>
+</div>
+<br>
 <div style="display: inline-block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
