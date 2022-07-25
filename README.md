@@ -1,6 +1,6 @@
 ### Olá, eu sou o José Lisboa 👋
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=1mmanuelKant&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" height="180em" width=" display="inline">
+  <img src="https://github-readme-stats.vercel.app/api?username=1mmanuelKant&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" height="180em" width="450em" display="inline">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mmanuelKant&layout=compact&langs_count=7&theme=vision-friendly-dark" height="180em">
 </div>
 <br>
