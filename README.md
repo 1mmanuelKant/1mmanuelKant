@@ -1,8 +1,10 @@
 ### Olá, eu sou o José Lisboa 👋
 <div width="900em">
-  <img src="https://github-readme-stats.vercel.app/api?username=joselisboaa&show_icons=true&theme=vision-friendly-dark&include_all_commits=false&count_private=true" height="180em" width="450em">
+  <img src="https://github-readme-stats.vercel.app/api?username=joselisboaa&show_icons=true&theme=vision-friendly-dark&include_all_commits=false&count_private=true" height="180em" width="600em">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joselisboaa&layout=compact&langs_count=7&theme=vision-friendly-dark" height="180em">
-  <img src="https://streak-stats.demolab.com/?user=joselisboaa&theme=vision-friendly-dark" height="180em">
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=joselisboaa&theme=vision-friendly-dark" height="180em">  
+  </p>
 </div>
 <br>
 <div style="display: inline-block">
