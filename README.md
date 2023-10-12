@@ -28,7 +28,7 @@
   <img align="center" alt="Java" height="60" width="80"  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Spring" height="60" width="80"  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="Docker" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="Kubernetes" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+  <img align="center" alt="Go" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" />
 </div>
 
 <br>
