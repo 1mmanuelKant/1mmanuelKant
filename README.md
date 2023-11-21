@@ -3,10 +3,10 @@
 <div width="900em">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=joselisboaa&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"     height="180em" width="450em">
-    <img src="https://streak-stats.demolab.com/?user=joselisboaa&theme=dracula" height="180em">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joselisboaa&layout=compact&langs_count=10&theme=dracula" width="270em" height="180em">
   </div>
   <div >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joselisboaa&layout=compact&langs_count=10&theme=dracula" width="270em" height="180em">
+    <img src="https://streak-stats.demolab.com/?user=joselisboaa&theme=dracula" height="180em">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joselisboaa&theme=dracula" height="180em">  
   </div>
 </div>
